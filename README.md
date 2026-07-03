@@ -19,8 +19,8 @@
 
 ### 🚀 About Me
 
-- 🎓 Computer Science student **Chitkara University/3rd year**
-- 🌱 Currently learning  React & DSA 
+- 🎓 3rd-year CS student at **Chitkara University**
+- 🌱 Currently learning **React & DSA**
 - 💬 Ask me about **JavaScript, HTML/CSS, C**
 - 📫 Reach me: **divanshigarg11@gmail.com**
 
@@ -43,10 +43,10 @@
   <summary>🌐 <b>SynnerTech</b> — HTML/CSS/JS website</summary>
   <br/>
 
-  > <!-- One or two lines about what SynnerTech is -->
+  > A responsive website built with vanilla HTML, CSS, and JavaScript, focused on clean layout and modern UI.
 
   **Tech:** HTML, CSS, JavaScript
-  🔗 [View Repo](https://github.com/divanshii6/SynnerTech) · [Live Demo](#) <!-- add GitHub Pages link -->
+  🔗 [View Repo](https://github.com/divanshii6/SynnerTech)
 </details>
 
 <details>
@@ -63,7 +63,7 @@
   <summary>✨ <b>divanshi</b> — JavaScript project</summary>
   <br/>
 
-  > <!-- Describe this project -->
+  > A JavaScript project exploring DOM manipulation and interactive front-end features.
 
   **Tech:** JavaScript
   🔗 [View Repo](https://github.com/divanshii6/divanshi)
@@ -99,9 +99,8 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/divanshi-garg-1834b0343?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/divanshi-garg-1834b0343"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:divanshigarg11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <!-- Add portfolio, LeetCode, Twitter, etc. -->
 </p>
 
 <!-- Animated footer wave -->
