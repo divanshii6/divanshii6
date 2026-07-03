@@ -19,8 +19,8 @@
 
 ### 🚀 About Me
 
-- 🎓 Computer Science student <!-- edit: your college/year -->
-- 🌱 Currently learning **<!-- e.g. React & DSA -->**
+- 🎓 Computer Science student <Chitkara University/3rd year>
+- 🌱 Currently learning **<React & DSA >**
 - 💬 Ask me about **JavaScript, HTML/CSS, C**
 - ⚡ Fun fact: **<!-- something about you -->**
 - 📫 Reach me: **divanshigarg11@gmail.com**
@@ -100,7 +100,7 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/divanshi-garg-1834b0343?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:divanshigarg11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <!-- Add portfolio, LeetCode, Twitter, etc. -->
 </p>
