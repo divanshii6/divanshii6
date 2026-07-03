@@ -74,8 +74,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=divanshii6&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divanshii6&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divanshii6&theme=radical" alt="GitHub stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divanshii6&theme=radical" alt="Top languages"/>
 </p>
 
 <p align="center">
