@@ -19,10 +19,9 @@
 
 ### 🚀 About Me
 
-- 🎓 Computer Science student <Chitkara University/3rd year>
-- 🌱 Currently learning **<React & DSA >**
+- 🎓 Computer Science student **Chitkara University/3rd year**
+- 🌱 Currently learning  **React & DSA **
 - 💬 Ask me about **JavaScript, HTML/CSS, C**
-- ⚡ Fun fact: **<!-- something about you -->**
 - 📫 Reach me: **divanshigarg11@gmail.com**
 
 <br clear="right"/>
